@@ -1,4 +1,4 @@
-# deploy-heroku
+# deploy-heroku: Machine Learning classiffication app deployment
 Deploy deep learning image classification model in Heroku using Flask to predict what breed of cat or dog is present.
   
 ### APPLICATION-URL : https://deploy-class-heroku-new.herokuapp.com/
