@@ -3,6 +3,8 @@ Deploy deep learning image classification model in Heroku using Flask to predict
   
 ### APPLICATION-URL : https://deploy-class-heroku-new.herokuapp.com/
 
+![alt text](https://github.com/Ashutosh27ind/deploy-heroku/blob/main/heroku%20image%20classification%20app%20deployment.JPG?raw=true)
+
 Heroku is a PaaS: Heroku is the platform as a service that helps the developers in building and running applications in the cloud. 
 
 The following steps were followed:  
