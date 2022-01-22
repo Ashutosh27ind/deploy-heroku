@@ -1,7 +1,7 @@
 # deploy-heroku
 Deploy deep learning image classification model in Heroku using Flask to predict what breed of cat or dog is present.
   
-### APPLICATION-URL : [Link to App hosted on Heroku](https://www.google.com) https://deploy-class-heroku-new.herokuapp.com/
+### APPLICATION-URL : https://deploy-class-heroku-new.herokuapp.com/
 
 Heroku is a PaaS: Heroku is the platform as a service that helps the developers in building and running applications in the cloud. 
 
